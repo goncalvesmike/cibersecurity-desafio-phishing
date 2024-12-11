@@ -1,11 +1,12 @@
+# Desafio do Curso De Ciber Segurança DIO
 # Phishing para captura de senhas do Facebook
 
-### Ferramentas
+### Ferramentas Usadas 
 
 - Kali Linux
 - setoolkit
 
-### Configurando o Phishing no Kali Linux
+### Configuração do Phishing no Kali Linux
 
 - Acesso root: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```
@@ -16,6 +17,6 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Resutados
+### Resutados obtidos:
 
 ![Alt text](./passwd.png "Optional title")
